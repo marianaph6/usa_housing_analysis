@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/908697471354758320/c89e2cf4c57f4b16957af35d2ae0236c/artifacts
+deleted_time: 1732684850868
+end_time: 1732684702942
+entry_point_name: ''
+experiment_id: '908697471354758320'
+lifecycle_stage: deleted
+run_id: c89e2cf4c57f4b16957af35d2ae0236c
+run_name: skittish-colt-717
+run_uuid: c89e2cf4c57f4b16957af35d2ae0236c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732684699281
+status: 3
+tags: []
+user_id: maria

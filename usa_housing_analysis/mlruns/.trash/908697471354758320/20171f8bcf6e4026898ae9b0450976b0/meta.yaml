@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/908697471354758320/20171f8bcf6e4026898ae9b0450976b0/artifacts
+deleted_time: 1732684850868
+end_time: 1732684699268
+entry_point_name: ''
+experiment_id: '908697471354758320'
+lifecycle_stage: deleted
+run_id: 20171f8bcf6e4026898ae9b0450976b0
+run_name: learned-snail-314
+run_uuid: 20171f8bcf6e4026898ae9b0450976b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732684693774
+status: 3
+tags: []
+user_id: maria
