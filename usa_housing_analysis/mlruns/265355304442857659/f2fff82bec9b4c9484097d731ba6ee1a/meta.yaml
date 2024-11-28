@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/f2fff82bec9b4c9484097d731ba6ee1a/artifacts
+end_time: 1732761808052
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: f2fff82bec9b4c9484097d731ba6ee1a
+run_name: hilarious-jay-599
+run_uuid: f2fff82bec9b4c9484097d731ba6ee1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732761804128
+status: 3
+tags: []
+user_id: maria

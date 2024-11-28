@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/0c01eb78789c43ea8022d7f8ec0eb464/artifacts
+end_time: 1732763455213
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 0c01eb78789c43ea8022d7f8ec0eb464
+run_name: bouncy-stag-819
+run_uuid: 0c01eb78789c43ea8022d7f8ec0eb464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732763450823
+status: 3
+tags: []
+user_id: maria

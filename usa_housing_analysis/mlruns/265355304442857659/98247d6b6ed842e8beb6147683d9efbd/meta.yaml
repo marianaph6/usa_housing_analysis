@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/98247d6b6ed842e8beb6147683d9efbd/artifacts
+end_time: 1732762458821
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 98247d6b6ed842e8beb6147683d9efbd
+run_name: classy-turtle-113
+run_uuid: 98247d6b6ed842e8beb6147683d9efbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732762455302
+status: 4
+tags: []
+user_id: maria

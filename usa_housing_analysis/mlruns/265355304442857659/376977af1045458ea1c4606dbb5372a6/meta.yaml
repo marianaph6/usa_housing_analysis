@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/376977af1045458ea1c4606dbb5372a6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 376977af1045458ea1c4606dbb5372a6
+run_name: upbeat-hawk-488
+run_uuid: 376977af1045458ea1c4606dbb5372a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732763665068
+status: 1
+tags: []
+user_id: maria
