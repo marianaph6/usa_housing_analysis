@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/5497196a47c84d5aa4da9c4c2b7f9106/artifacts
+end_time: 1732753905781
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 5497196a47c84d5aa4da9c4c2b7f9106
+run_name: charming-bug-484
+run_uuid: 5497196a47c84d5aa4da9c4c2b7f9106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732753902255
+status: 3
+tags: []
+user_id: maria

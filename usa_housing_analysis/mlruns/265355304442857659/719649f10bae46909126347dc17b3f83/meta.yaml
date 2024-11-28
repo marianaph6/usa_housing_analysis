@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/719649f10bae46909126347dc17b3f83/artifacts
+end_time: 1732745734464
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 719649f10bae46909126347dc17b3f83
+run_name: casual-yak-894
+run_uuid: 719649f10bae46909126347dc17b3f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732745730131
+status: 3
+tags: []
+user_id: maria

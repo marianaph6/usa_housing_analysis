@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/4cebd79f877b4bba85cda1071bccf886/artifacts
+end_time: 1732744487310
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 4cebd79f877b4bba85cda1071bccf886
+run_name: amazing-shad-518
+run_uuid: 4cebd79f877b4bba85cda1071bccf886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732744482753
+status: 3
+tags: []
+user_id: maria
