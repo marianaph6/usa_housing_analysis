@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/6b9f05d03b3e4208a6df3628f37b0a93/artifacts
+end_time: 1732763674642
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 6b9f05d03b3e4208a6df3628f37b0a93
+run_name: fortunate-tern-30
+run_uuid: 6b9f05d03b3e4208a6df3628f37b0a93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732763670491
+status: 3
+tags: []
+user_id: maria
