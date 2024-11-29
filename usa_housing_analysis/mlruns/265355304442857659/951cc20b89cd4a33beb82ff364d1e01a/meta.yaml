@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/951cc20b89cd4a33beb82ff364d1e01a/artifacts
+end_time: 1732859989009
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 951cc20b89cd4a33beb82ff364d1e01a
+run_name: Ridge Regression
+run_uuid: 951cc20b89cd4a33beb82ff364d1e01a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732859985480
+status: 3
+tags: []
+user_id: maria

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/5e2b2b92cdca4a5eb2d6874d211102d6/artifacts
+end_time: 1732897736829
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 5e2b2b92cdca4a5eb2d6874d211102d6
+run_name: Gradient Boosting
+run_uuid: 5e2b2b92cdca4a5eb2d6874d211102d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732897732151
+status: 3
+tags: []
+user_id: maria

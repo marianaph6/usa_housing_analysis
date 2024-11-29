@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/NuevosEnfoques/Actividad_1/usa_housing_analysis/usa_housing_analysis/mlruns/265355304442857659/63f53b8f16b7404086b3ab1dd9482312/artifacts
+end_time: 1732859859100
+entry_point_name: ''
+experiment_id: '265355304442857659'
+lifecycle_stage: active
+run_id: 63f53b8f16b7404086b3ab1dd9482312
+run_name: XGBoost
+run_uuid: 63f53b8f16b7404086b3ab1dd9482312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732859855162
+status: 3
+tags: []
+user_id: maria
